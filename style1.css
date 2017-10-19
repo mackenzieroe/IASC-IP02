@@ -1,9 +1,33 @@
-#firstHeader{
-  color:red;
-  font-weight: bold;
+body{
+  background-color: white;
+
 }
 
-.greenText{
-  color:green;
-  font-style: italic;
+#wrapper{
+  background-color: white;
+  width: 1000px;
+  margin:0 auto;
+}
+
+#header{
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  height: 100px;
+}
+#nav{
+  background-color: green;
+  color: white;
+  float: left;
+  width: 1000px;
+  height: 400px;
+}
+
+
+#footer{
+  background-color: blue;
+  color: white;
+  height: 100px;
+  clear:both;
 }

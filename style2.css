@@ -1,12 +1,44 @@
 body{
-  background-color:red;
+  background-color: green;
+  font-weight: bold;
+  margin:0 ;
+
 }
 
-#greenItalic{
-  color:green;
-  font-style:italic;
+#wrapper{
+  background-color: red;
+  width: 800px;
+  margin:0 auto;
+  height:0 auto;
 }
-.inline30px{
-  display:inline;
-  font-size:30px;
+
+#header{
+  background-color: red;
+  text-align: center;
+  height: 100px;
+  padding-top: 10px;
+}
+#nav{
+  background-color: pink;
+  float: left;
+  width: 200px;
+  height: 75px;
+}
+#nav2{
+  background-color: orange;
+  float: left;
+  width: 600px;
+  height: 75px;
+}
+#content{
+  background-color: blue;
+  float: left;
+  width: 800px;
+  height: 400px;
+}
+
+#footer{
+  background-color: yellow;
+  height: 50px;
+  clear:both;
 }
