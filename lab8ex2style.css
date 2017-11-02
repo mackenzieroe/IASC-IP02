@@ -1,0 +1,39 @@
+body{
+  background-color: white;
+
+}
+
+#box0{
+  margin: 0px 100px 0px 100px;
+}
+
+#box1{
+  border: 3px dotted purple;
+  text-align: center;
+  padding-top: 200px;
+}
+.greenText{
+  color:green;
+  text-align: center;
+}
+.orangeText{
+  color:orange;
+  text-align: left;
+  font-family: sans-serif;
+}
+
+.redText{
+  color:red;
+  vertical-align: super;
+}
+
+.purpleText{
+  color:purple;
+  text-align: right;
+}
+
+.yellowText{
+  text-transform: uppercase;
+  color:yellow;
+  font-style: italic;
+}

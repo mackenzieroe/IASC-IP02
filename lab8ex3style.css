@@ -1,0 +1,20 @@
+body{
+  background-color: white;
+
+}
+#box0{
+  background-color: green;
+}
+#box1{
+  border: 3px dotted black;
+  margin: 0px 20px 0px 20px;
+}
+.colour1{
+  color: red;
+}
+.colour2{
+  color: darkgreen;
+}
+#box2{
+  color: purple;
+}
